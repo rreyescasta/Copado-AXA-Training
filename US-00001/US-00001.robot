@@ -16,3 +16,6 @@ Exercise 9 - US-00001 - Test Case 2
 
 Exercise 9 - US-00001 - Test Case 3
     Log    US-00001 - Test Case 3
+
+Exercise 9 - US-00001 - Test Case 4
+    Log    US-00001 - Test Case 4
